@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hey, I'm Jenny 👋
+#I’m a computer science graduate currently focused on turning my ideas into code, one project at a time.
+
+#🛠 What I'm working on
+-Currently building personal projects to bridge the gap between theory and practice.
+-Exploring new frameworks and sharpening my problem-solving skills through hands-on coding.
+
+#💻 Tools & Tech
+-Languages: Python, C, C++
+-Tools: Git, VS Code
+
+#📬 How to reach me
+-LinkedIn: linkedin.com/in/jenny-hubert-813648274/
+-Location: Based in Germany/Switzerland
 
 <!--
 **jennyrosyy/jennyrosyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
